@@ -1,0 +1,4 @@
+service ws {
+	@handler ws
+	get /ws/tunnel()  returns()
+}

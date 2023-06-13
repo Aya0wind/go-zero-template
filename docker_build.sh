@@ -1,0 +1,1 @@
+docker build -t ${1}:v1 -f service/${1}/Dockerfile .
